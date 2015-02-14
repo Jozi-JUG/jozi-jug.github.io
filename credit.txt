@@ -1,0 +1,38 @@
+KAGUM - Reponsive Blog Templates, a magazine blog templates and personal templates. With Bootstrap v3.2.0 is the latest version of the bootstrap. Templates are unique, beautiful, clean, creative and responsive.
+
+Pages
+===============================
+
+Home Page
+About Page
+Contact Page
+Contact Alternatif Page
+Single Blog Page
+Login Page
+Login Alternatif Page
+Register Page
+Register Alternatif Page
+Blank Page
+
+Featured Credit
+===============================
+
+1. http://getbootstrap.com/ Bootstrap v3.2.0
+2. http://fortawesome.github.io/ FontAwesome v4.1.0
+3. https://www.google.com/fonts Open Sans
+4. owlgraphic.com/owlcarousel/ Owl Carousel
+5. jquery.com jQuery v1.11.1
+
+images credit
+===============================
+
+http://500px.com/photo/17436627/capucine-by-dominique-legros
+http://500px.com/photo/54619724/night-by-anna-logvinova
+http://500px.com/photo/54615734/pinch-by-anna-logvinova
+http://500px.com/photo/30892579/swimmer-by-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%9B%D0%B5%D0%BF%D0%B5%D1%85%D0%B8%D0%BD
+http://500px.com/photo/43781420/yellow-by-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%9B%D0%B5%D0%BF%D0%B5%D1%85%D0%B8%D0%BD
+http://500px.com/photo/18638119/la-by-ulvi-dashdamirli
+http://500px.com/photo/49638912/stark-by-stephen-holmes
+http://500px.com/photo/71515113/olga-summer-fashion-by-luca-iafrate
+
+https://www.facebook.com/pages/Seeme-photography/430103313725115
